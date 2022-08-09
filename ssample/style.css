@@ -1,0 +1,82 @@
+img {
+  border-radius: 50%;
+
+}
+
+body {
+  background-color: rgb(171, 171, 201);
+  margin: 0;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: sienna;
+  border-width: 1px;
+  width: 5%
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+h1 {
+  margin-top: 10%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  /* color: bisque; */
+  /* display: block inline-block; */
+}
+
+.middle_container {
+  border: solid 1px;
+margin-left:15px ; 
+ height: 45px;
+  width: 45px;
+  background-color:darkslategray;
+}
+
+.bottom_container {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  border-left: solid 5px;
+  margin-left: 270px;
+}
+
+.professional_img {
+  position: relative;
+  left: 800px;
+
+}
+
+.pro_into {
+ padding-right: 100px;
+}
+
+.intro {
+  text-align: center;
+  margin: 0px 30px 0 0
+}
+
+.bio {
+  text-align: center;
+}
+
+_ .profile_img {
+  position: relative;
+  left: 700px;
+}
+
+.personal_img{
+  position: relative;
+  left: 500px;
+}
+
+.skills{
+  padding-left: 0.1px;
+
+}
